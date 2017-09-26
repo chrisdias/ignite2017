@@ -50,27 +50,19 @@ Who knew?
 
 # 40 minutes left
 
-Let's do 40 tips and tricks
-
----
-
-# And a go...
-(From Shrek, the XBox game)
+~4 minutes per topic
 
 ---
 
 ## What will we cover?
 
-* Setup and Configuration
-* Code Editing
-* Debugging
-* ...   
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|||
+|-|-|
+| Setup | Debugging |
+| Configuration | Tasks |
+| Key Binding | Terminal |
+| Code Navigation, Editing | Source Code Control |
+| Code Style, Correctness |  Extensions |
 
 ---
 
@@ -78,6 +70,9 @@ Let's do 40 tips and tricks
 <!-- .slide: style="text-align: left;" -->
 # @code
 
-- [Tips and Tricks](https://bleck)
+- Follow us [@code](https://twitter.com/code)
+- [Tips and Tricks](https://github.com/microsoft/vscode-tips-and-tricks)
 - [Visual Stuido Code](https://code.visualstudio.com)
 - [The Repo](https://github.com/microsoft/vscode)
+
+
