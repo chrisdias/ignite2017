@@ -17,3 +17,5 @@ function bubbleSort(a) {
 
 bubbleSort(a);
 console.log(a);
+
+
